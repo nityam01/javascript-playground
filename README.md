@@ -11,18 +11,31 @@
 - Variables
     - Decalaration: var, let and const
     - Naming rules
-    - Scope: global, block and function
+    - Scope: global, block, lexical and function
     - Hoisting
 
 - Data Types [Reference](https://www.codeguage.com/courses/js/data-types)
     - Primitives: number, string, boolean, null, undefine, synbol, bigint
-    - outboxing
-    - Object
+    - Object: Array, Functions and object (also null)
     - typeof operator
 
 - Type Casting
     - Inplicit and Explicit
     - Type conversion and coercion
+
+- Data Structures
+    - Keyed: Map, Weak Map, Set and weak Set
+    - structured: JSON
+    - Indexed: Arrays and Typed Arrays
+
+- Operators
+    - Logical operators (!, ||, &&)
+    - The nullish coalescing operator (??)
+    - Relational operators (==, ===, !=, !==, <, <=, >, >=)
+    - Arithmetic operators (+, -, *, /, **, %)
+    - comparison
+    - string (+, +=) and ternary(: ?)
+    - Bitwise operators (<<, >>, >>>, ~, ^, &, |)
 
 - Loops and Iteration
     - for statement
@@ -34,6 +47,16 @@
 - Control Flow
     - if and if...else
     - switch
+
+- Functions
+    - Parameters: default, rest
+    - Arrow Function
+    - IIFE
+    - arguments object
+    - Build-in Function
+    - closures
+    - recursions
+    - Lexical Scopign
 
 - Exception Handling
     - try...catch...finally
@@ -66,3 +89,18 @@
     - Proxy API
 
 - Chrome DevTool
+
+
+### POLLYFILLS
+- Promises Methods
+- Array Methos
+- Number Methods
+- String Methods
+
+
+### PROJECTS
+- calander app
+- chess game
+- snake game
+- google sheet
+- packman game
