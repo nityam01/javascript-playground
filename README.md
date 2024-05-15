@@ -18,10 +18,9 @@
     - Primitives: number, string, boolean, null, undefine, synbol, bigint
     - Object: Array, Functions and object (also null)
     - typeof operator
-
-- Type Casting
-    - Inplicit and Explicit
-    - Type conversion and coercion
+    - Type Casting
+        - Inplicit and Explicit
+        - Type conversion and coercion
 
 - Data Structures
     - Keyed: Map, Weak Map, Set and weak Set
@@ -37,6 +36,11 @@
     - string (+, +=) and ternary(: ?)
     - Bitwise operators (<<, >>, >>>, ~, ^, &, |)
 
+- Methods
+    - Number
+    - String
+    - Array
+
 - Loops and Iteration
     - for statement
     - for...of
@@ -47,6 +51,10 @@
 - Control Flow
     - if and if...else
     - switch
+    - Exception Handling
+        - try...catch...finally
+        - throw
+        - Error Object
 
 - Functions
     - Parameters: default, rest
@@ -58,18 +66,12 @@
     - recursions
     - Lexical Scopign
 
-- Exception Handling
-    - try...catch...finally
-    - throw
-    - Error Object
-
 - Async
     - callback and callback hell
     - Promises and async/await
     - setTimeout and setInterval
-
-- API
-    - Fetch and XMLHTTPRequest
+    - API
+        - Fetch and XMLHTTPRequest
 
 - OOPS
     - Objects
